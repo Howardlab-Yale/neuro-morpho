@@ -1,9 +1,9 @@
 # SSEC-JHU neuro_morpho
 
-[![CI](https://github.com/ssec-jhu/neuro-morpho/actions/workflows/ci.yml/badge.svg)](https://github.com/ssec-jhu/neuro-morpho/actions/workflows/ci.yml)
-[![Documentation Status](https://readthedocs.org/projects/neuro-morpho/badge/?version=latest)](https://neuro-morpho.readthedocs.io/en/latest/?badge=latest)
-[![codecov](https://codecov.io/gh/ssec-jhu/neuro-morpho/graph/badge.svg?token=nO3cCBglK2)](https://codecov.io/gh/ssec-jhu/neuro-morpho)
-[![Security](https://github.com/ssec-jhu/neuro-morpho/actions/workflows/security.yml/badge.svg)](https://github.com/ssec-jhu/neuro-morpho/actions/workflows/security.yml)
+[![CI](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/ci.yml/badge.svg)](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/ci.yml)
+[![Documentation Status](https://readthedocs.org/projects/Howardlab-Yale/badge/?version=latest)](https://Howardlab-Yale.readthedocs.io/en/latest/?badge=latest)
+[![codecov](https://codecov.io/gh/Howardlab-Yale/neuro-morpho/graph/badge.svg?token=nO3cCBglK2)](https://codecov.io/gh/Howardlab-Yale/neuro-morpho)
+[![Security](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/security.yml/badge.svg)](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/security.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16782869.svg)](https://doi.org/10.5281/zenodo.16782869)
 
 
@@ -27,7 +27,7 @@ For additional cmds see the [Conda cheat-sheet](https://docs.conda.io/projects/c
  * Download and install either [miniconda](https://docs.conda.io/en/latest/miniconda.html#installing) or [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html).
  * Create new environment: ``conda create -n <environment_name>``
  * Activate/switch to new env: ``conda activate <environment_name>``
- * Clone the repository: ``git clone git@github.com:ssec-jhu/neuro-morpho.git <repo_dir>``
+ * Clone the repository: ``git clone https://github.com/Howardlab-Yale/neuro-morpho.git <repo_dir>``
  * ``cd`` into ``repo_dir`` (``neuro-morpho``, if ``repo_dir`` wasn't set in previous command).
  * Install ``python`` and ``pip``: ``conda install python=3.11 pip``
  * Install all required dependencies (assuming local dev work), there are two ways to do this
@@ -94,7 +94,7 @@ and the same paths to use as in case of testing
 * Run tox ``tox``. This will run all of linting, security, test, docs and package building within tox virtual environments.
 * To run an individual step, use ``tox -e {step}`` for example, ``tox -e test``, ``tox -e build-docs``, etc.
 
-Typically, the CI tests run in github actions will use tox to run as above. See also [ci.yml](https://github.com/ssec-jhu/neuro-morpho/blob/main/.github/workflows/ci.yml).
+Typically, the CI tests run in github actions will use tox to run as above. See also [ci.yml](https://github.com/Howardlab-Yale/neuro-morpho/blob/main/.github/workflows/ci.yml).
 
 ## Outside of tox:
 

@@ -14,6 +14,11 @@
             "affiliation": "Scientific Software Engineering Center at JHU",
             "name": "Gerard Lemson",
             "orcid": "0000-0001-5041-2458"
+        },
+        {
+            "affiliation": "Howard Lab at Yale University",
+            "name": "Sabyasachi Sutradhar",
+            "orcid": "0000-0002-5826-5891"
         }
     ],
     "description": "Accelerating Software Development for Science Research",

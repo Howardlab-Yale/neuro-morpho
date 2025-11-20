@@ -1,7 +1,7 @@
 # SSEC-JHU neuro_morpho
 
 [![CI](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/ci.yml/badge.svg)](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/ci.yml)
-[![Documentation Status](https://readthedocs.org/projects/Howardlab-Yale/badge/?version=latest)](https://Howardlab-Yale.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://app.readthedocs.org/projects/neuromorpho/badge/?version=latest)](https://neuromorpho.readthedocs.io/en/latest/)
 [![codecov](https://codecov.io/gh/Howardlab-Yale/neuro-morpho/graph/badge.svg?token=nO3cCBglK2)](https://codecov.io/gh/Howardlab-Yale/neuro-morpho)
 [![Security](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/security.yml/badge.svg)](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/security.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16782869.svg)](https://doi.org/10.5281/zenodo.16782869)

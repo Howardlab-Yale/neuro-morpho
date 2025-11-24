@@ -4,7 +4,7 @@
 [![Documentation Status](https://app.readthedocs.org/projects/neuromorpho/badge/?version=latest)](https://neuromorpho.readthedocs.io/en/latest/)
 [![codecov](https://codecov.io/gh/Howardlab-Yale/neuro-morpho/graph/badge.svg?token=nO3cCBglK2)](https://codecov.io/gh/Howardlab-Yale/neuro-morpho)
 [![Security](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/security.yml/badge.svg)](https://github.com/Howardlab-Yale/neuro-morpho/actions/workflows/security.yml)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16782869.svg)](https://doi.org/10.5281/zenodo.16782869)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17665545.svg)](https://doi.org/10.5281/zenodo.17665545)
 
 
 ![SSEC-JHU Logo](docs/_static/SSEC_logo_horiz_blue_1152x263.png)
